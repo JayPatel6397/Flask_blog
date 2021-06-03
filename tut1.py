@@ -1,0 +1,13 @@
+from flask import Flask, render_template #render_template will return the html page in return.
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return render_template('index.html')
+
+@app.route("/about")
+def about():
+    name = "Jay"
+    return render_template('about.html', name=name )
+
+app.run(debug = True)

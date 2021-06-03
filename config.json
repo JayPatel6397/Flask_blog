@@ -1,0 +1,15 @@
+{
+    "params":
+    {
+        "local_server": "True",
+        "local_uri": "mysql://root:@localhost/blogs",
+        "pord_uri": "mysql://root:@localhost/blogs",
+        "fb_url": "facebook.com",
+        "twitter_url": "https://twitter.com/Jay_A_P",
+        "github_url": "https://github.com/JayPatel6397",
+        "blogname": "Jay Patel's Blog",
+        "tagline": "A blog liked by programmers",
+        "about_text": "A Dynamic and proactive individual seeking for challenging opportunities in area of Data Science. Eager to contribute to the team project with my knowledge in Machine learning, Python and R coding skills. A person who strongly believes in making a difference in society with the help of technology."
+ 
+    }
+}
