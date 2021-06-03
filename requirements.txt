@@ -112,7 +112,6 @@ pycparser==2.20
 pyee==8.1.0
 Pygments==2.7.4
 pylint==2.6.2
-pyodbc==4.0.30
 pyOpenSSL==20.0.1
 pyparsing==2.4.7
 pyppeteer==0.2.5
