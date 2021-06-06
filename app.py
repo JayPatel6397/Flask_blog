@@ -1,6 +1,5 @@
 from flask import Flask, render_template, request #render_template will return the html page in return.
 from flask_sqlalchemy import SQLAlchemy
-from flask_mail import Mail
 from datetime import datetime
 import json
 
