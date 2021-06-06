@@ -2,8 +2,8 @@
     "params":
     {
         "local_server": "True",
-        "local_uri": "mysql://root:@localhost/blogs",
-        "pord_uri": "mysql://root:@localhost/blogs",
+        "local_uri": "mysql+pymysql://root:@localhost/blogs",
+        "pord_uri": "mysql+pymysql://root:@localhost/blogs",
         "fb_url": "facebook.com",
         "twitter_url": "https://twitter.com/Jay_A_P",
         "github_url": "https://github.com/JayPatel6397",
