@@ -33,7 +33,7 @@ class Contact(db.Model):
 
 class Post(db.Model):
     '''
-    sno, title, content, date, slug 
+    sno, title, content, date, slug , date, img_file, tag_line
     '''
     sno = db.Column(db.Integer, primary_key=True)
     title = db.Column(db.String(80), nullable=False)
